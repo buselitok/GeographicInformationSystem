@@ -1,6 +1,7 @@
 # GeographicInformationSystem
 
+![newplot](https://github.com/buselitok/GeographicInformationSystem/assets/83907874/bc64c9b6-cc72-4da2-8339-6d106530bba9)
 
-![newplot (2)](https://github.com/buselitok/GeographicInformationSystem/assets/83907874/63220ae7-bd67-4e54-a413-140e938a18a7)
-![newplot (1)](https://github.com/buselitok/GeographicInformationSystem/assets/83907874/cb8eb438-e32e-4dda-92d1-a17902763230)
-![newplot](https://github.com/buselitok/GeographicInformationSystem/assets/83907874/1075040d-7759-454c-b10b-d747b340882b)
+
+![newplot (1)](https://github.com/buselitok/GeographicInformationSystem/assets/83907874/4d3bf589-0866-450b-b0de-a5ad916809f1)
+![newplot (2)](https://github.com/buselitok/GeographicInformationSystem/assets/83907874/2199b791-eb1c-4e1b-ba35-dbfdabf13991)
